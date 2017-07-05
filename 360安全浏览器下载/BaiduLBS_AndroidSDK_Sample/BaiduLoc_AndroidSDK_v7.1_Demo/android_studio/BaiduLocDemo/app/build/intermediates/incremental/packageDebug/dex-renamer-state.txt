@@ -1,0 +1,7 @@
+#Tue Feb 07 14:41:23 CST 2017
+base.0=/Users/clamp/Downloads/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a5cbf8ba761fe289cfeabd3ae91bcee54594d32
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/clamp/Downloads/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8d45b58d3c7c17424f5c79ae63d10ece5880a8a8/classes.dex
+base.1=/Users/clamp/Downloads/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8d45b58d3c7c17424f5c79ae63d10ece5880a8a8
+file.0=/Users/clamp/Downloads/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a5cbf8ba761fe289cfeabd3ae91bcee54594d32/classes.dex
